@@ -6,7 +6,7 @@ To install this application, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/https://github.com/satyam4321/Frontend-Assignment.git
+git clone https://github.com/satyam4321/Frontend-Assignment.git
 Navigate to the project directory:
 
 cd your-repo-name
